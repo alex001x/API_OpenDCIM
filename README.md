@@ -20,3 +20,5 @@ image, La liste des PDU et les informations DevicesID sont récupérés deppuis 
 Mode formulaire, création d'un bouton, editer une macro et ajouter la macro à votre feuille quitter le mode création formulaire
 Saisir un identifiant correspondant à votre PDU (export des données possible depuis la section rapport inventaire)
 Les cellules ABC ne peuvent être vide ou érroné
+
+API pour intéragir avec GLPI
