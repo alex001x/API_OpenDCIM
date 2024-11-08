@@ -2,7 +2,9 @@
 Ici, je poste les codes vb API OpenDCIM utilisés pour LibreOffice Calc et Ms Excel que je mets à disposition aux fur et à mesure de l'avancement, c'est quelque chose que je fais en dehors de mon travail.
 
 API_PduStat
-Code permettant l'envoie à OpenDCIM des saisies des metrics pdu ( pour ceux qui ne souhaite pas les connecter/administrer) depuis le tableau excel ou calc 
+Code permettant l'envoie à OpenDCIM des saisies des metrics pdu ( pour ceux qui ne souhaite pas les connecter/administrer) depuis un tableau excel ou calc LibreOffice.
+Vous pouvez aussi créer un script (construction de la syntaxe snmpget) qui recolte les données des PDU, avec un appel API pour récupérer la liste des IP des PDU à consulter et les paramétrages SNMP, puis un envoi API pour transmettre les données à OpenDCIM.
+Solution alternative selon les différents niveaux de sécurité.
 
 API Pdustat Excel -> Feuille Excel -En cours d'édition
 
