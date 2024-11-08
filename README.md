@@ -7,6 +7,7 @@ Vous pouvez aussi créer un script (construction de la syntaxe snmpget) qui reco
 Solution alternative selon les différents niveaux de sécurité.
 
 API Pdustat Excel -> Feuille Excel -En cours d'édition
+![image](https://github.com/user-attachments/assets/cc458c17-3515-464e-8f2e-bbef70c4b88a)
 
 API Pdustat Calc -> Feuille calc Libre office
 ![image](https://github.com/user-attachments/assets/24b0dd4e-eac8-439e-ab7b-afa6df1a3e4e)
